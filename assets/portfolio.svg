@@ -1,4 +1,6 @@
-<svg id="Component_2_1" data-name="Component 2 – 1" xmlns="http://www.w3.org/2000/svg" width="100" height="30" viewBox="0 0 164 48">
-  <rect id="Rectangle_20" data-name="Rectangle 20" width="100" height="30" fill="#fff"/>
-  <text id="My_portfolio" data-name="My portfolio" transform="translate(24 29)" fill="#87abcd" font-size="16" font-family="SitkaText, Sitka Text"><tspan x="0" y="0">My portfolio</tspan></text>
+<svg id="_68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e" data-name="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e" xmlns="http://www.w3.org/2000/svg" width="111" height="28" viewBox="0 0 111 28">
+  <g id="Group_2" data-name="Group 2">
+    <rect id="Rectangle_21" data-name="Rectangle 21" width="111" height="28" fill="#fff"/>
+  </g>
+  <text id="My_portfolio" data-name="My portfolio" transform="translate(15 18)" fill="#87abcd" font-size="14" font-family="SitkaText, Sitka Text"><tspan x="0" y="0">My portfolio</tspan></text>
 </svg>
