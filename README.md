@@ -3,10 +3,7 @@
 
 My name is Boris Gudelj and I am a front-end developer. Originally I am from Serbia, but I live and work in Oslo, Norway. 
 
-## :books: Education
 
-
-Noroff - Front-end development 2020-2022
 
 ## 🔧 Technologies & Tools
 
@@ -21,6 +18,10 @@ Noroff - Front-end development 2020-2022
 
 :purple_circle: Adobe Xd
 
+## :books: Education
+
+
+Noroff - Front-end development 2020-2022
 
 ## 📫 How to reach me?
 
