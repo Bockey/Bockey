@@ -8,15 +8,7 @@ My name is Boris Gudelj and I am a front-end developer. Originally I am from Ser
 ## 🔧 Technologies & Tools
 
 
-:yellow_circle: JavaScript 
-
-:large_blue_circle: React
-
-:purple_circle: Bootstrap
-
-:large_blue_circle: Sass
-
-:purple_circle: Adobe Xd
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,sass)
 
 ## :books: Education
 
@@ -26,7 +18,10 @@ Noroff - Front-end development 2020-2022
 ## 📫 How to reach me?
 
 
-:white_medium_square: [LinkedIn](https://www.linkedin.com/in/boris-gudelj-a535091b4/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/boris-gudelj-a535091b4/)
 
-:black_medium_square: [My personal portfolio](https://www.bockey.one)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.bockey.one)
+
+
+
 
